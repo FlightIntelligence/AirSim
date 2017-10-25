@@ -22,7 +22,7 @@
 #include <limits>
 #include <queue>
 #include "type_utils.hpp"
-
+#include <limits.h>
 
 #define _USE_MATH_DEFINES
 #include <cmath>
